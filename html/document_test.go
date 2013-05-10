@@ -2,7 +2,7 @@ package html
 
 import (
 	"testing"
-	"github.com/moovweb/gokogiri/help"
+	"github.com/snipsnipsnip/gokogiri/help"
 	//"path/filepath"
 )
 
